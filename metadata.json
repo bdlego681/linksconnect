@@ -1,0 +1,5 @@
+{
+  "name": "LinksConnect",
+  "description": "A social network for golfers to connect, find playing partners, and sync handicaps. Features AI-powered local player discovery and profile enhancement.",
+  "requestFramePermissions": []
+}
